@@ -9,8 +9,8 @@
   
 | Gatunek Pandy     | Description |
 | ----------- | ----------- |
-| Panda Wielka      | Title       |
-| Panda Czerwona   | Text        |
+| Panda Wielka      | Duża, czarno-biała       |
+| Panda Czerwona   | mała, ruda        |
 
 ```
 if "PandaWielka" == True:
