@@ -5,7 +5,7 @@
 > Tutaj znajdzie się piękny cytat
 
 * Punkt pierwszy
-  * Grunt to miła panda: ![Zobacz Pandę!](https://pl.wikipedia.org/wiki/Panda_wielka#/media/Plik:Grosser_Panda.JPG) oraz sprawdź [more info](https://pl.wikipedia.org/wiki/Panda_wielka)
+  * **Grunt** to _miła_ panda: ![Zobacz Pandę!](https://pl.wikipedia.org/wiki/Panda_wielka#/media/Plik:Grosser_Panda.JPG) oraz sprawdź [more info](https://pl.wikipedia.org/wiki/Panda_wielka)
   
 | Gatunek Pandy     | Description |
 | ----------- | ----------- |
