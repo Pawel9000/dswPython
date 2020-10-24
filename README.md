@@ -9,8 +9,8 @@
   
 | Gatunek Pandy     | Description |
 | ----------- | ----------- |
-| Panda Wielka      | Duża, czarno-biała       |
-| Panda Czerwona   | mała, ruda        |
+| [Panda Wielka][PW]      | Duża, czarno-biała       |
+| [Panda Czerwona][PC]   | mała, ruda        |
 
 ```
 if "PandaWielka" == True:
@@ -19,3 +19,5 @@ else:
   print("www.pandaczerwona.pl")
 
 ```
+[PW]: https://pl.wikipedia.org/wiki/Panda_wielka#/media/Plik:Grosser_Panda.JPG
+[PC]: https://pl.wikipedia.org/wiki/Pandka_ruda
